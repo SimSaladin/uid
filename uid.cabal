@@ -23,7 +23,7 @@ library
                        aeson,
                        bytestring,
                        cereal,
-                       dataenc,
+                       sandi,
                        text,
                        uuid
 
